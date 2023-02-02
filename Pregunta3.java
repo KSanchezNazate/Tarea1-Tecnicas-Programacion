@@ -10,4 +10,15 @@ public class Pregunta3 {
     }
 }
 
+// ¿Qué hacía?
+//  - Ordenar
+//  - Buscar
+//  - Optimizar
+//  - Comprimir
+//  - Cifrar
+//  - Hashing
+
+// ¿Era correcto y eficiente?
+//  - Si 
+
 
