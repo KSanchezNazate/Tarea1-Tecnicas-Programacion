@@ -1,7 +1,8 @@
 # Tarea1-Tecnicas-Programacion
-Tarea1 02/02/2023 https://github.com/KSanchezNazate/Tarea1-Tecnicas-Programacion.git
-
+Tarea1 02/02/2023 
+## nota
 Enunciado
+https://github.com/KSanchezNazate/Tarea1-Tecnicas-Programacion.git
 
 Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:
