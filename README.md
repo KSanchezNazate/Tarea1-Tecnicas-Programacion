@@ -1,6 +1,6 @@
 # Tarea1-Tecnicas-Programacion
 Tarea1 02/02/2023 
-## nota
+## Nota
 Enunciado
 https://github.com/KSanchezNazate/Tarea1-Tecnicas-Programacion.git
 
